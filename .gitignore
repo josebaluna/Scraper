@@ -1,0 +1,5 @@
+# Contenido sugerido de .gitignore
+*.db
+__pycache__/
+*.pyc
+*.log
